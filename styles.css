@@ -1,0 +1,16 @@
+* {
+    text-align: center;
+}
+
+.js-quiz ul {
+    list-style: none;
+    padding: 0;
+}
+
+.js-quiz, .js-summary {
+    display: none;
+}
+
+.selected {
+    background-color: aquamarine;
+}
